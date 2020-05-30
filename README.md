@@ -6,7 +6,7 @@ Based on [Face recognition with OpenCV, Python, and deep learning Pyimagesearch'
 This facial recognition system detects the faces of **Brad Pitt** and **Edward Norton**, 
 main characters on Fight Club movie. 
 
-In each frame are detected the faces and is shown a real time bar plot. This is ran on a [clip of the movie](https://www.youtube.com/watch?v=CWRTqMGvdpc) and the output is [here](https://youtu.be/WEfk_Zbcqa0).
+In each frame are detected the faces and is shown a real time bar plot. This was ran on a [clip of the movie](https://www.youtube.com/watch?v=CWRTqMGvdpc) and the output is [here](https://youtu.be/WEfk_Zbcqa0).
 
 
 
